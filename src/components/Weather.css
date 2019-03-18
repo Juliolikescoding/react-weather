@@ -1,0 +1,27 @@
+.main{
+    margin:auto;
+    width: 960px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+h4{
+    color: orangered;
+}
+
+img {
+    width: 225px;
+}
+
+.arr{
+    margin-top: 120px;
+    font-size: 50px;
+}
+
+.arrLeft {
+    float: left;
+}
+
+.arrRight {
+    float: right;
+}

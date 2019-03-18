@@ -1,7 +1,7 @@
 {
   "name": "project",
   "version": "0.1.0",
-  "homepage": "weather-app/",
+  "homepage": "/weather-app",
   "private": true,
   "dependencies": {
     "react": "^16.8.4",
